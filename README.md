@@ -3,7 +3,7 @@
 
 ✨ Welcome to my GitHub profile! ✨  
 
-**QA Engineer | DevOps Enthusiast | Computer Science Student**
+**QA Engineer | DevOps Enthusiast | Ai Student**
 
 ---
 
