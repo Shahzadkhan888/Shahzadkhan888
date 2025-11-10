@@ -14,8 +14,8 @@ I’m always exploring new tools in CI/CD, cloud, and automation to improve soft
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Java, Python, Bash/Shell, SQL  
-- **QA & Testing:** Manual Testing, Test Automation, Selenium, Postman, JUnit  
+- **Languages:** Python, Bash/Shell, SQL  
+- **QA & Testing:** Manual Testing, Test Automation, Playwright, Postman, JUnit  
 - **DevOps Tools:** Jenkins, Docker, Maven, Git, GitHub, CI/CD Pipelines  
 - **Other Tools:** Linux, VS Code, IntelliJ IDEA, Jira, GitHub Actions  
 
