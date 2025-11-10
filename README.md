@@ -7,8 +7,7 @@
 
 ---
 
-🚀 Passionate about building reliable systems, automating workflows, and ensuring software quality through continuous testing and integration.  
-I’m always exploring new tools in CI/CD, cloud, and automation to improve software delivery and efficiency.
+🚀 Passionate about building reliable systems, automating workflows, and ensuring software quality through continuous testing and integration. I’m always exploring new tools in CI/CD, cloud, and automation to improve software delivery and efficiency.
 
 ---
 
