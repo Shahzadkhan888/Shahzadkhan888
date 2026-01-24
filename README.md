@@ -13,12 +13,7 @@
 
 ## 🛠️ Tech Stack
 **Testing:** Agile Testing, Functional Testing, UAT, End-to-End Testing, Bug Reporting, Test Scripts
-**Programming Languages:** Python, JavaScript, Java
-**DevOps:** Jenkins, GitHub/GitLab, Docker, Bash Scripting, CLI Commands, SSH Commands
-**Databases & Operating Systems:** Oracle, SQL Server, Linux, Windows
-**Framework & Tools:** Playwright, Selenium WebDriver, Jira, PowerBI, Azure DevOps
-**Virtualization Technologies:** VirtualBox, VMware
-
+**Programming Languages:** Python, JavaScript, Java 
 ---
 
 ## 🎯 Goals
